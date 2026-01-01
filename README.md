@@ -1,9 +1,7 @@
 # 팀 레포: https://github.com/AIBootcamp16/scientific-knowledge-question-answering-ir-4
-
-# Scientific Knowledge Question Answering  
-### 과학 지식 질의 응답을 위한 RAG 기반 Information Retrieval 시스템
-
 ---
+# Scientific Knowledge Question Answering  
+과학 지식 질의 응답을 위한 RAG 기반 Information Retrieval 시스템
 
 ## 1. Project Overview
 
@@ -279,8 +277,6 @@ v10의 성능 향상은 특정 모델의 변경 때문이 아니라,
 ---
 
 ## 11. Lessons Learned & Reflection
-
-### What I Learned
 
 이번 대회를 통해 **RAG 기반 QA 시스템의 성능 병목은 LLM이 아니라 Information Retrieval 구조에 있다**는 점을 명확히 체감했다.
 
